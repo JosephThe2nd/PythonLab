@@ -5,8 +5,8 @@ import re #for Regular Expressions
 import sys #for stopping the program quit() / exit()
 
 
-email_sender = "opdeadly3@gmail.com"
-email_password = "pbgxmarkezbdgurd"
+email_sender = ""
+email_password = ""
 email_receiver = "mmfgfkxmbrycmzslxe@tmmbt.com" #https://10minutemail.com/
 
 
